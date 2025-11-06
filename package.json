@@ -1,6 +1,6 @@
 {
   "name": "@massive.com/errands",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "NodeJS Client for Errands Server",
   "main": "src/index.js",
   "scripts": {
