@@ -1,5 +1,5 @@
 {
-  "name": "@polygonio/errands",
+  "name": "@massive.com/errands",
   "version": "1.0.4",
   "description": "NodeJS Client for Errands Server",
   "main": "src/index.js",
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Polygon-io/errands-nodejs.git"
+    "url": "git+https://github.com/massive-com/errands-js.git"
   },
   "keywords": [
     "errands",
-    "polygon",
+    "massive",
     "queue"
   ],
-  "author": "Polygon.io",
+  "author": "Massive.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Polygon-io/errands-nodejs/issues"
+    "url": "https://github.com/massive-com/errands-js/issues"
   },
-  "homepage": "https://github.com/Polygon-io/errands-nodejs#readme",
+  "homepage": "https://github.com/massive-com/errands-js#readme",
   "dependencies": {
     "async": "^2.6.2",
     "axios": "^0.19.0",
